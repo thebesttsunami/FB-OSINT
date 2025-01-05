@@ -4,7 +4,7 @@ import facebook
 
 Masukkan API Key dan ID Profil
 api_key = "882a8490361da98702bf97a021ddc14d"
-id_profil = "// ID TARGET //"
+id_profil = "100087020197894"
 
 Buat objek Facebook
 graph = facebook.GraphAPI(api_key)
