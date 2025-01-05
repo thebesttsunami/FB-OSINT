@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import requests
 from bs4 import BeautifulSoup
 
 api_key = "882a8490361da98702bf97a021ddc14d"
